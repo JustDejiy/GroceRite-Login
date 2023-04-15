@@ -276,4 +276,7 @@ header .btnLogin-popup:hover{
     .logo{
         font-size: 1.5em;
     }
+     .wrapper{
+        margin-top: 30%;
+    }
 }
